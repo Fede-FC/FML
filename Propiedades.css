@@ -13,6 +13,7 @@
 html{
     font-family="montserrat";
     text-align: justify;
+    background: radial-gradient(#48e, #fff);
 }
 .contenido {
     position: relative;
